@@ -1,0 +1,46 @@
+.myWork{
+    background-color: #BEBEBE;
+}
+
+.casestudies{
+    padding: 2%
+}
+
+.cm{
+    display: flex;
+    padding:4%
+}
+
+.chef{
+    float: right;
+    padding: 3%
+}
+
+.hb{
+    display:flex;
+    padding: 4%;
+    background-color: #FAFAFA;
+}
+
+.honest{
+    float:right;
+    padding:3%
+}
+
+.ga{
+    display:flex;
+    padding: 4%;
+}
+
+.gov{
+    float:right;
+    padding:3%
+}
+
+.view{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #FAFAFA;
+    padding: 3%
+}
